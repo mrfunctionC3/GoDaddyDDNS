@@ -8,10 +8,10 @@
 #
 # Update the first 4 variables with your information
 
-domain="yourdomainname.com"						# your domain
-name="www"									    # name of A record to update
-key="cjVuQm08dqg49UhRZpxm4J_dKP1Hfwy4iFJ"	    # key for godaddy developer API
-secret="Gb6QeTyZcWJ4n87AFWHLmm" 				# secret for godaddy developer API
+domain="yourdomainname.com"				# your domain
+name="www"						# name of A record to update
+key="__________your__api__key___________"		# key for godaddy developer API
+secret="_____your__secret_____"				# secret for godaddy developer API
 
 headers="Authorization: sso-key $key:$secret"
 
